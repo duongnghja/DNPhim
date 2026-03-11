@@ -75,9 +75,6 @@ const Footer = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <span className="lg:text-sm text-xs text-gray-50">
-                Hoàng Sa & Trường Sa là của Việt Nam!
-              </span>
             </div>
           </div>
 
